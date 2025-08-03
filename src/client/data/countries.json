@@ -57,106 +57,8 @@
     "continent": "Europe",
     "name": "Aland Islands",
     "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "dz",
-    "continent": "Africa",
-    "name": "Algeria",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "as",
-    "continent": "Oceania",
-    "name": "American Samoa",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "am",
-    "continent": "Asia",
-    "name": "Armenia",
-    "outline": {
-      "light": "#FF4500",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "ad",
-    "continent": "Europe",
-    "name": "Andorra",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "ao",
-    "continent": "Africa",
-    "name": "Angola",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "aq",
-    "name": "Antarctica",
-    "outline": {
-      "light": "#000080",
-      "dark": "#ADD8E6"
-    }
-  },
-  {
-    "code": "ar",
-    "continent": "South America",
-    "name": "Argentina",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "aw",
-    "continent": "South America",
-    "name": "Aruba",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "sh-ac",
-    "continent": "Africa",
-    "name": "Ascension Island",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "au",
-    "continent": "Oceania",
-    "name": "Australia",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "at",
-    "continent": "Europe",
-    "name": "Austria",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "light": "#4682B4",
+      "dark": "#F0F8FF"
     }
   },
   {
@@ -164,26 +66,17 @@
     "continent": "Asia",
     "name": "Azerbaijan",
     "outline": {
-      "light": "#000080",
-      "dark": "#FF6347"
+      "light": "#8B0000",
+      "dark": "#FFD700"
     }
   },
   {
-    "code": "bs",
-    "continent": "North America",
-    "name": "Bahamas",
+    "code": "ba",
+    "continent": "Europe",
+    "name": "Bosnia and Herzegovina",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#00BFFF"
-    }
-  },
-  {
-    "code": "bh",
-    "continent": "Asia",
-    "name": "Bahrain",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "light": "#00008B",
+      "dark": "#FFFF00"
     }
   },
   {
@@ -191,26 +84,8 @@
     "continent": "Asia",
     "name": "Bangladesh",
     "outline": {
-      "light": "#228B22",
-      "dark": "#FF6347"
-    }
-  },
-  {
-    "code": "bb",
-    "continent": "North America",
-    "name": "Barbados",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "by",
-    "continent": "Europe",
-    "name": "Belarus",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#228B22"
+      "light": "#006400",
+      "dark": "#FF0000"
     }
   },
   {
@@ -218,16 +93,43 @@
     "continent": "Europe",
     "name": "Belgium",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#B22222"
+      "light": "#000000",
+      "dark": "#FFFF00"
     }
   },
   {
-    "code": "bz",
-    "continent": "North America",
-    "name": "Belize",
+    "code": "bf",
+    "continent": "Africa",
+    "name": "Burkina Faso",
     "outline": {
-      "light": "#B22222",
+      "light": "#006400",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "bg",
+    "continent": "Europe",
+    "name": "Bulgaria",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FF0000"
+    }
+  },
+  {
+    "code": "bh",
+    "continent": "Asia",
+    "name": "Bahrain",
+    "outline": {
+      "light": "#A52A2A",
+      "dark": "#D3D3D3"
+    }
+  },
+  {
+    "code": "bi",
+    "continent": "Africa",
+    "name": "Burundi",
+    "outline": {
+      "light": "#DC143C",
       "dark": "#00BFFF"
     }
   },
@@ -236,8 +138,17 @@
     "continent": "Africa",
     "name": "Benin",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#228B22"
+      "light": "#006400",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "bl",
+    "continent": "North America",
+    "name": "Saint Bartelemy",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
     }
   },
   {
@@ -245,17 +156,17 @@
     "continent": "North America",
     "name": "Bermuda",
     "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
+      "light": "#DC143C",
+      "dark": "#FFFFFF"
     }
   },
   {
-    "code": "bt",
+    "code": "bn",
     "continent": "Asia",
-    "name": "Bhutan",
+    "name": "Brunei Darussalam",
     "outline": {
-      "light": "#000080",
-      "dark": "#333333"
+      "light": "#006400",
+      "dark": "#FFD700"
     }
   },
   {
@@ -263,8 +174,8 @@
     "continent": "South America",
     "name": "Bolivia",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#B22222"
+      "light": "#8B0000",
+      "dark": "#FFD700"
     }
   },
   {
@@ -273,34 +184,7 @@
     "name": "Bonaire, Sint Eustatius and Saba",
     "outline": {
       "light": "#000080",
-      "dark": "#FF6347"
-    }
-  },
-  {
-    "code": "ba",
-    "continent": "Europe",
-    "name": "Bosnia and Herzegovina",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "bw",
-    "continent": "Africa",
-    "name": "Botswana",
-    "outline": {
-      "light": "#666666",
       "dark": "#ADD8E6"
-    }
-  },
-  {
-    "code": "bv",
-    "continent": "Antarctica",
-    "name": "Bouvet Island",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
     }
   },
   {
@@ -308,80 +192,62 @@
     "continent": "South America",
     "name": "Brazil",
     "outline": {
-      "light": "#000080",
+      "light": "#006400",
       "dark": "#FFD700"
     }
   },
   {
-    "code": "io",
+    "code": "bs",
+    "continent": "North America",
+    "name": "Bahamas",
+    "outline": {
+      "light": "#00BFFF",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "bt",
     "continent": "Asia",
-    "name": "British Indian Ocean Territory",
+    "name": "Bhutan",
+    "outline": {
+      "light": "#FF4500",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "bv",
+    "continent": "Antarctica",
+    "name": "Bouvet Island",
+    "outline": {
+      "light": "#666666",
+      "dark": "#CCCCCC"
+    }
+  },
+  {
+    "code": "bw",
+    "continent": "Africa",
+    "name": "Botswana",
     "outline": {
       "light": "#000080",
-      "dark": "#E0E0E0"
+      "dark": "#7B68EE"
     }
   },
   {
-    "code": "bn",
-    "continent": "Asia",
-    "name": "Brunei Darussalam",
-    "outline": {
-      "light": "#FFD700",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "bg",
+    "code": "by",
     "continent": "Europe",
-    "name": "Bulgaria",
+    "name": "Belarus",
     "outline": {
-      "light": "#228B22",
-      "dark": "#B22222"
+      "light": "#B22222",
+      "dark": "#006400"
     }
   },
   {
-    "code": "bf",
-    "continent": "Africa",
-    "name": "Burkina Faso",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "bi",
-    "continent": "Africa",
-    "name": "Burundi",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#FF6347"
-    }
-  },
-  {
-    "code": "cv",
-    "continent": "Africa",
-    "name": "Cabo Verde",
-    "outline": {
-      "light": "#FFD700",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "kh",
-    "continent": "Asia",
-    "name": "Cambodia",
+    "code": "bz",
+    "continent": "North America",
+    "name": "Belize",
     "outline": {
       "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "cm",
-    "continent": "Africa",
-    "name": "Cameroon",
-    "outline": {
-      "light": "#FFD700",
-      "dark": "#228B22"
+      "dark": "#ADD8E6"
     }
   },
   {
@@ -390,15 +256,24 @@
     "name": "Canada",
     "outline": {
       "light": "#B22222",
-      "dark": "#E0E0E0"
+      "dark": "#FFFFFF"
     }
   },
   {
-    "code": "ky",
-    "continent": "North America",
-    "name": "Cayman Islands",
+    "code": "cc",
+    "continent": "Asia",
+    "name": "Cocos (Keeling) Islands",
     "outline": {
-      "light": "#000080",
+      "light": "#006400",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "cd",
+    "continent": "Africa",
+    "name": "Congo, The Democratic Republic of the",
+    "outline": {
+      "light": "#00008B",
       "dark": "#FFD700"
     }
   },
@@ -407,17 +282,44 @@
     "continent": "Africa",
     "name": "Central African Republic",
     "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
+      "light": "#B22222",
+      "dark": "#000080"
     }
   },
   {
-    "code": "td",
+    "code": "cg",
     "continent": "Africa",
-    "name": "Chad",
+    "name": "Congo",
+    "outline": {
+      "light": "#006400",
+      "dark": "#B22222"
+    }
+  },
+  {
+    "code": "ch",
+    "continent": "Europe",
+    "name": "Switzerland",
     "outline": {
       "light": "#B22222",
-      "dark": "#FFD700"
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "ci",
+    "continent": "Africa",
+    "name": "Cote D'Ivoire",
+    "outline": {
+      "light": "#FF4500",
+      "dark": "#006400"
+    }
+  },
+  {
+    "code": "ck",
+    "continent": "Oceania",
+    "name": "Cook Islands",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
     }
   },
   {
@@ -425,8 +327,17 @@
     "continent": "South America",
     "name": "Chile",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "cm",
+    "continent": "Africa",
+    "name": "Cameroon",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFD700"
     }
   },
   {
@@ -439,66 +350,12 @@
     }
   },
   {
-    "code": "cx",
-    "continent": "Asia",
-    "name": "Christmas Island",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "cc",
-    "continent": "Asia",
-    "name": "Cocos Islands",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#FFD700"
-    }
-  },
-  {
     "code": "co",
     "continent": "South America",
     "name": "Colombia",
     "outline": {
-      "light": "#B22222",
-      "dark": "#ADD8E6"
-    }
-  },
-  {
-    "code": "km",
-    "continent": "Africa",
-    "name": "Comoros",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "cg",
-    "continent": "Africa",
-    "name": "Congo",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "cd",
-    "continent": "Africa",
-    "name": "Congo, Democratic Republic of the",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "ck",
-    "continent": "Oceania",
-    "name": "Cook Islands",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
+      "light": "#FFD700",
+      "dark": "#000080"
     }
   },
   {
@@ -507,16 +364,7 @@
     "name": "Costa Rica",
     "outline": {
       "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "hr",
-    "continent": "Europe",
-    "name": "Croatia",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
+      "dark": "#DC143C"
     }
   },
   {
@@ -525,7 +373,16 @@
     "name": "Cuba",
     "outline": {
       "light": "#000080",
-      "dark": "#E0E0E0"
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "cv",
+    "continent": "Africa",
+    "name": "Cape Verde",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
     }
   },
   {
@@ -534,34 +391,52 @@
     "name": "Curaçao",
     "outline": {
       "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "cx",
+    "continent": "Asia",
+    "name": "Christmas Island",
+    "outline": {
+      "light": "#006400",
       "dark": "#FFD700"
     }
   },
   {
     "code": "cy",
-    "continent": "Asia",
+    "continent": "Europe",
     "name": "Cyprus",
     "outline": {
-      "light": "#B22222",
+      "light": "#D3D3D3",
       "dark": "#FFD700"
     }
   },
   {
     "code": "cz",
     "continent": "Europe",
-    "name": "Czechia",
+    "name": "Czech Republic",
     "outline": {
       "light": "#000080",
-      "dark": "#FF6347"
+      "dark": "#DC143C"
     }
   },
   {
-    "code": "ci",
-    "continent": "Africa",
-    "name": "Côte d'Ivoire",
+    "code": "de",
+    "continent": "Europe",
+    "name": "Germany",
     "outline": {
-      "light": "#228B22",
-      "dark": "#FF4500"
+      "light": "#000000",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "dj",
+    "continent": "Africa",
+    "name": "Djibouti",
+    "outline": {
+      "light": "#00BFFF",
+      "dark": "#006400"
     }
   },
   {
@@ -570,16 +445,7 @@
     "name": "Denmark",
     "outline": {
       "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "dj",
-    "continent": "Africa",
-    "name": "Djibouti",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#00BFFF"
+      "dark": "#FFFFFF"
     }
   },
   {
@@ -587,8 +453,8 @@
     "continent": "North America",
     "name": "Dominica",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "light": "#006400",
+      "dark": "#FFD700"
     }
   },
   {
@@ -597,7 +463,16 @@
     "name": "Dominican Republic",
     "outline": {
       "light": "#000080",
-      "dark": "#B22222"
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "dz",
+    "continent": "Africa",
+    "name": "Algeria",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFFFFF"
     }
   },
   {
@@ -605,44 +480,8 @@
     "continent": "South America",
     "name": "Ecuador",
     "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "eg",
-    "continent": "Africa",
-    "name": "Egypt",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "sv",
-    "continent": "North America",
-    "name": "El Salvador",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "gq",
-    "continent": "Africa",
-    "name": "Equatorial Guinea",
-    "outline": {
-      "light": "#228B22",
+      "light": "#FFD700",
       "dark": "#B22222"
-    }
-  },
-  {
-    "code": "er",
-    "continent": "Africa",
-    "name": "Eritrea",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#FFD700"
     }
   },
   {
@@ -651,16 +490,43 @@
     "name": "Estonia",
     "outline": {
       "light": "#000080",
-      "dark": "#E0E0E0"
+      "dark": "#FFFFFF"
     }
   },
   {
-    "code": "sz",
+    "code": "eg",
     "continent": "Africa",
-    "name": "Eswatini",
+    "name": "Egypt",
     "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
+      "light": "#B22222",
+      "dark": "#000000"
+    }
+  },
+  {
+    "code": "eh",
+    "continent": "Africa",
+    "name": "Western Sahara",
+    "outline": {
+      "light": "#FF4500",
+      "dark": "#006400"
+    }
+  },
+  {
+    "code": "er",
+    "continent": "Africa",
+    "name": "Eritrea",
+    "outline": {
+      "light": "#B22222",
+      "dark": "#006400"
+    }
+  },
+  {
+    "code": "es",
+    "continent": "Europe",
+    "name": "Spain",
+    "outline": {
+      "light": "#B22222",
+      "dark": "#FFD700"
     }
   },
   {
@@ -668,35 +534,8 @@
     "continent": "Africa",
     "name": "Ethiopia",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "fk",
-    "continent": "South America",
-    "name": "Falkland Islands",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "fo",
-    "continent": "Europe",
-    "name": "Faroe Islands",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "fj",
-    "continent": "Oceania",
-    "name": "Fiji",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
+      "light": "#006400",
+      "dark": "#FFD700"
     }
   },
   {
@@ -705,7 +544,43 @@
     "name": "Finland",
     "outline": {
       "light": "#000080",
-      "dark": "#E0E0E0"
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "fj",
+    "continent": "Oceania",
+    "name": "Fiji",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "fk",
+    "continent": "South America",
+    "name": "Falkland Islands (Malvinas)",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "fm",
+    "continent": "Oceania",
+    "name": "Micronesia, Federated States of",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "fo",
+    "continent": "Europe",
+    "name": "Faroe Islands",
+    "outline": {
+      "light": "#B22222",
+      "dark": "#FFFFFF"
     }
   },
   {
@@ -714,34 +589,7 @@
     "name": "France",
     "outline": {
       "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "gf",
-    "continent": "South America",
-    "name": "French Guiana",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "pf",
-    "continent": "Oceania",
-    "name": "French Polynesia",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "tf",
-    "continent": "Antarctica",
-    "name": "French Southern Territories",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
+      "dark": "#DC143C"
     }
   },
   {
@@ -749,71 +597,17 @@
     "continent": "Africa",
     "name": "Gabon",
     "outline": {
-      "light": "#228B22",
+      "light": "#006400",
       "dark": "#000080"
     }
   },
   {
-    "code": "gm",
-    "continent": "Africa",
-    "name": "Gambia",
+    "code": "gb",
+    "continent": "Europe",
+    "name": "United Kingdom",
     "outline": {
       "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "ge",
-    "continent": "Asia",
-    "name": "Georgia",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "de",
-    "continent": "Europe",
-    "name": "Germany",
-    "outline": {
-      "light": "#FFD700",
-      "dark": "#FF6347"
-    }
-  },
-  {
-    "code": "gh",
-    "continent": "Africa",
-    "name": "Ghana",
-    "outline": {
-      "light": "#FFD700",
-      "dark": "#228B22"
-    }
-  },
-  {
-    "code": "gi",
-    "continent": "Europe",
-    "name": "Gibraltar",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "gr",
-    "continent": "Europe",
-    "name": "Greece",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "gl",
-    "continent": "North America",
-    "name": "Greenland",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "dark": "#DC143C"
     }
   },
   {
@@ -826,29 +620,20 @@
     }
   },
   {
-    "code": "gp",
-    "continent": "North America",
-    "name": "Guadeloupe",
+    "code": "ge",
+    "continent": "Asia",
+    "name": "Georgia",
     "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
+      "light": "#B22222",
+      "dark": "#FFFFFF"
     }
   },
   {
-    "code": "gu",
-    "continent": "Oceania",
-    "name": "Guam",
+    "code": "gf",
+    "continent": "South America",
+    "name": "French Guiana",
     "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "gt",
-    "continent": "North America",
-    "name": "Guatemala",
-    "outline": {
-      "light": "#00BFFF",
+      "light": "#006400",
       "dark": "#FFD700"
     }
   },
@@ -858,7 +643,43 @@
     "name": "Guernsey",
     "outline": {
       "light": "#B22222",
-      "dark": "#E0E0E0"
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "gh",
+    "continent": "Africa",
+    "name": "Ghana",
+    "outline": {
+      "light": "#B22222",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "gi",
+    "continent": "Europe",
+    "name": "Gibraltar",
+    "outline": {
+      "light": "#DC143C",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "gl",
+    "continent": "North America",
+    "name": "Greenland",
+    "outline": {
+      "light": "#DC143C",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "gm",
+    "continent": "Africa",
+    "name": "Gambia",
+    "outline": {
+      "light": "#B22222",
+      "dark": "#000080"
     }
   },
   {
@@ -866,8 +687,62 @@
     "continent": "Africa",
     "name": "Guinea",
     "outline": {
-      "light": "#FFD700",
+      "light": "#B22222",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "gp",
+    "continent": "North America",
+    "name": "Guadeloupe",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "gq",
+    "continent": "Africa",
+    "name": "Equatorial Guinea",
+    "outline": {
+      "light": "#006400",
       "dark": "#B22222"
+    }
+  },
+  {
+    "code": "gr",
+    "continent": "Europe",
+    "name": "Greece",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "gs",
+    "continent": "Antarctica",
+    "name": "South Georgia and the South Sandwich Islands",
+    "outline": {
+      "light": "#666666",
+      "dark": "#CCCCCC"
+    }
+  },
+  {
+    "code": "gt",
+    "continent": "North America",
+    "name": "Guatemala",
+    "outline": {
+      "light": "#00BFFF",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "gu",
+    "continent": "Oceania",
+    "name": "Guam",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
     }
   },
   {
@@ -884,44 +759,8 @@
     "continent": "South America",
     "name": "Guyana",
     "outline": {
-      "light": "#00BFFF",
+      "light": "#006400",
       "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "ht",
-    "continent": "North America",
-    "name": "Haiti",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "hm",
-    "continent": "Antarctica",
-    "name": "Heard Island and McDonald Islands",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "va",
-    "continent": "Europe",
-    "name": "Holy See",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "hn",
-    "continent": "North America",
-    "name": "Honduras",
-    "outline": {
-      "light": "#00BFFF",
-      "dark": "#E0E0E0"
     }
   },
   {
@@ -930,7 +769,43 @@
     "name": "Hong Kong",
     "outline": {
       "light": "#B22222",
-      "dark": "#E0E0E0"
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "hm",
+    "continent": "Antarctica",
+    "name": "Heard Island and McDonald Islands",
+    "outline": {
+      "light": "#666666",
+      "dark": "#CCCCCC"
+    }
+  },
+  {
+    "code": "hn",
+    "continent": "North America",
+    "name": "Honduras",
+    "outline": {
+      "light": "#00BFFF",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "hr",
+    "continent": "Europe",
+    "name": "Croatia",
+    "outline": {
+      "light": "#B22222",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "ht",
+    "continent": "North America",
+    "name": "Haiti",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
     }
   },
   {
@@ -938,26 +813,8 @@
     "continent": "Europe",
     "name": "Hungary",
     "outline": {
-      "light": "#228B22",
+      "light": "#006400",
       "dark": "#B22222"
-    }
-  },
-  {
-    "code": "is",
-    "continent": "Europe",
-    "name": "Iceland",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#ADD8E6"
-    }
-  },
-  {
-    "code": "in",
-    "continent": "Asia",
-    "name": "India",
-    "outline": {
-      "light": "#FF4500",
-      "dark": "#228B22"
     }
   },
   {
@@ -965,26 +822,8 @@
     "continent": "Asia",
     "name": "Indonesia",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "ir",
-    "continent": "Asia",
-    "name": "Iran",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#228B22"
-    }
-  },
-  {
-    "code": "iq",
-    "continent": "Asia",
-    "name": "Iraq",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#B22222"
+      "light": "#DC143C",
+      "dark": "#FFFFFF"
     }
   },
   {
@@ -992,17 +831,8 @@
     "continent": "Europe",
     "name": "Ireland",
     "outline": {
-      "light": "#008000",
+      "light": "#006400",
       "dark": "#FF4500"
-    }
-  },
-  {
-    "code": "im",
-    "continent": "Europe",
-    "name": "Isle of Man",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
     }
   },
   {
@@ -1011,7 +841,61 @@
     "name": "Israel",
     "outline": {
       "light": "#000080",
-      "dark": "#E0E0E0"
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "im",
+    "continent": "Europe",
+    "name": "Isle of Man",
+    "outline": {
+      "light": "#A52A2A",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "in",
+    "continent": "Asia",
+    "name": "India",
+    "outline": {
+      "light": "#FF4500",
+      "dark": "#006400"
+    }
+  },
+  {
+    "code": "io",
+    "continent": "Asia",
+    "name": "British Indian Ocean Territory",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "iq",
+    "continent": "Asia",
+    "name": "Iraq",
+    "outline": {
+      "light": "#006400",
+      "dark": "#B22222"
+    }
+  },
+  {
+    "code": "ir",
+    "continent": "Asia",
+    "name": "Iran, Islamic Republic of",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "is",
+    "continent": "Europe",
+    "name": "Iceland",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
     }
   },
   {
@@ -1019,26 +903,8 @@
     "continent": "Europe",
     "name": "Italy",
     "outline": {
-      "light": "#228B22",
+      "light": "#006400",
       "dark": "#B22222"
-    }
-  },
-  {
-    "code": "jm",
-    "continent": "North America",
-    "name": "Jamaica",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "jp",
-    "continent": "Asia",
-    "name": "Japan",
-    "outline": {
-      "light": "#8B0000",
-      "dark": "#D3D3D3"
     }
   },
   {
@@ -1051,21 +917,30 @@
     }
   },
   {
+    "code": "jm",
+    "continent": "North America",
+    "name": "Jamaica",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFD700"
+    }
+  },
+  {
     "code": "jo",
     "continent": "Asia",
     "name": "Jordan",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "light": "#000000",
+      "dark": "#006400"
     }
   },
   {
-    "code": "kz",
+    "code": "jp",
     "continent": "Asia",
-    "name": "Kazakhstan",
+    "name": "Japan",
     "outline": {
-      "light": "#B22222",
-      "dark": "#ADD8E6"
+      "light": "#DC143C",
+      "dark": "#FFFFFF"
     }
   },
   {
@@ -1073,43 +948,7 @@
     "continent": "Africa",
     "name": "Kenya",
     "outline": {
-      "light": "#228B22",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "ki",
-    "continent": "Oceania",
-    "name": "Kiribati",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "kp",
-    "continent": "Asia",
-    "name": "North Korea",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "kr",
-    "continent": "Asia",
-    "name": "Korea, Republic of",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "kw",
-    "continent": "Asia",
-    "name": "Kuwait",
-    "outline": {
-      "light": "#228B22",
+      "light": "#000000",
       "dark": "#B22222"
     }
   },
@@ -1123,21 +962,93 @@
     }
   },
   {
-    "code": "la",
+    "code": "kh",
     "continent": "Asia",
-    "name": "Lao People's Democratic Republic",
+    "name": "Cambodia",
     "outline": {
       "light": "#000080",
       "dark": "#B22222"
     }
   },
   {
-    "code": "lv",
-    "continent": "Europe",
-    "name": "Latvia",
+    "code": "ki",
+    "continent": "Oceania",
+    "name": "Kiribati",
     "outline": {
-      "light": "#8B0000",
-      "dark": "#E0E0E0"
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "km",
+    "continent": "Africa",
+    "name": "Comoros",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "kn",
+    "continent": "North America",
+    "name": "Saint Kitts and Nevis",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "kp",
+    "continent": "Asia",
+    "name": "Korea, Democratic People's Republic of",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "kr",
+    "continent": "Asia",
+    "name": "Korea, Republic of",
+    "outline": {
+      "light": "#DC143C",
+      "dark": "#000080"
+    }
+  },
+  {
+    "code": "kw",
+    "continent": "Asia",
+    "name": "Kuwait",
+    "outline": {
+      "light": "#006400",
+      "dark": "#B22222"
+    }
+  },
+  {
+    "code": "ky",
+    "continent": "North America",
+    "name": "Cayman Islands",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "kz",
+    "continent": "Asia",
+    "name": "Kazakhstan",
+    "outline": {
+      "light": "#00BFFF",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "la",
+    "continent": "Asia",
+    "name": "Lao People's Democratic Republic",
+    "outline": {
+      "light": "#B22222",
+      "dark": "#000080"
     }
   },
   {
@@ -1145,35 +1056,17 @@
     "continent": "Asia",
     "name": "Lebanon",
     "outline": {
-      "light": "#228B22",
-      "dark": "#B22222"
+      "light": "#B22222",
+      "dark": "#FFFFFF"
     }
   },
   {
-    "code": "ls",
-    "continent": "Africa",
-    "name": "Lesotho",
+    "code": "lc",
+    "continent": "North America",
+    "name": "Saint Lucia",
     "outline": {
       "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "lr",
-    "continent": "Africa",
-    "name": "Liberia",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "ly",
-    "continent": "Africa",
-    "name": "Libya",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#B22222"
+      "dark": "#FFD700"
     }
   },
   {
@@ -1186,11 +1079,38 @@
     }
   },
   {
+    "code": "lk",
+    "continent": "Asia",
+    "name": "Sri Lanka",
+    "outline": {
+      "light": "#8B4513",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "lr",
+    "continent": "Africa",
+    "name": "Liberia",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "ls",
+    "continent": "Africa",
+    "name": "Lesotho",
+    "outline": {
+      "light": "#000080",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
     "code": "lt",
     "continent": "Europe",
     "name": "Lithuania",
     "outline": {
-      "light": "#228B22",
+      "light": "#FFD700",
       "dark": "#B22222"
     }
   },
@@ -1199,143 +1119,35 @@
     "continent": "Europe",
     "name": "Luxembourg",
     "outline": {
-      "light": "#B22222",
-      "dark": "#00BFFF"
+      "light": "#000080",
+      "dark": "#DC143C"
     }
   },
   {
-    "code": "mo",
-    "continent": "Asia",
-    "name": "Macao",
+    "code": "lv",
+    "continent": "Europe",
+    "name": "Latvia",
     "outline": {
-      "light": "#228B22",
-      "dark": "#FFD700"
+      "light": "#8B0000",
+      "dark": "#FFFFFF"
     }
   },
   {
-    "code": "mg",
+    "code": "ly",
     "continent": "Africa",
-    "name": "Madagascar",
+    "name": "Libya",
     "outline": {
-      "light": "#228B22",
+      "light": "#000000",
+      "dark": "#006400"
+    }
+  },
+  {
+    "code": "ma",
+    "continent": "Africa",
+    "name": "Morocco",
+    "outline": {
+      "light": "#006400",
       "dark": "#B22222"
-    }
-  },
-  {
-    "code": "mw",
-    "continent": "Africa",
-    "name": "Malawi",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#228B22"
-    }
-  },
-  {
-    "code": "my",
-    "continent": "Asia",
-    "name": "Malaysia",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "mv",
-    "continent": "Asia",
-    "name": "Maldives",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "ml",
-    "continent": "Africa",
-    "name": "Mali",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#228B22"
-    }
-  },
-  {
-    "code": "mt",
-    "continent": "Europe",
-    "name": "Malta",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "mh",
-    "continent": "Oceania",
-    "name": "Marshall Islands",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FF6347"
-    }
-  },
-  {
-    "code": "mq",
-    "continent": "North America",
-    "name": "Martinique",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#00BFFF"
-    }
-  },
-  {
-    "code": "mr",
-    "continent": "Africa",
-    "name": "Mauritania",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "mu",
-    "continent": "Africa",
-    "name": "Mauritius",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#00BFFF"
-    }
-  },
-  {
-    "code": "yt",
-    "continent": "Africa",
-    "name": "Mayotte",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#00BFFF"
-    }
-  },
-  {
-    "code": "mx",
-    "continent": "North America",
-    "name": "Mexico",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#228B22"
-    }
-  },
-  {
-    "code": "fm",
-    "continent": "Oceania",
-    "name": "Micronesia",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "md",
-    "continent": "Europe",
-    "name": "Moldova, Republic of",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#228B22"
     }
   },
   {
@@ -1343,17 +1155,17 @@
     "continent": "Europe",
     "name": "Monaco",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "light": "#DC143C",
+      "dark": "#FFFFFF"
     }
   },
   {
-    "code": "mn",
-    "continent": "Asia",
-    "name": "Mongolia",
+    "code": "md",
+    "continent": "Europe",
+    "name": "Moldova, Republic of",
     "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
+      "light": "#000080",
+      "dark": "#FFD700"
     }
   },
   {
@@ -1366,30 +1178,48 @@
     }
   },
   {
-    "code": "ms",
+    "code": "mf",
     "continent": "North America",
-    "name": "Montserrat",
+    "name": "Saint Martin (French Part)",
     "outline": {
       "light": "#000080",
-      "dark": "#E0E0E0"
+      "dark": "#ADD8E6"
     }
   },
   {
-    "code": "ma",
+    "code": "mg",
     "continent": "Africa",
-    "name": "Morocco",
+    "name": "Madagascar",
     "outline": {
-      "light": "#228B22",
-      "dark": "#B22222"
+      "light": "#DC143C",
+      "dark": "#006400"
     }
   },
   {
-    "code": "mz",
-    "continent": "Africa",
-    "name": "Mozambique",
+    "code": "mh",
+    "continent": "Oceania",
+    "name": "Marshall Islands",
     "outline": {
-      "light": "#228B22",
-      "dark": "#B22222"
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "mk",
+    "continent": "Europe",
+    "name": "Macedonia, The Former Yugoslav Republic of",
+    "outline": {
+      "light": "#B22222",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "ml",
+    "continent": "Africa",
+    "name": "Mali",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFD700"
     }
   },
   {
@@ -1397,8 +1227,125 @@
     "continent": "Asia",
     "name": "Myanmar",
     "outline": {
-      "light": "#228B22",
+      "light": "#006400",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "mn",
+    "continent": "Asia",
+    "name": "Mongolia",
+    "outline": {
+      "light": "#000080",
       "dark": "#B22222"
+    }
+  },
+  {
+    "code": "mo",
+    "continent": "Asia",
+    "name": "Macao",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "mp",
+    "continent": "Oceania",
+    "name": "Northern Mariana Islands",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "mq",
+    "continent": "North America",
+    "name": "Martinique",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "mr",
+    "continent": "Africa",
+    "name": "Mauritania",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "ms",
+    "continent": "North America",
+    "name": "Montserrat",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "mt",
+    "continent": "Europe",
+    "name": "Malta",
+    "outline": {
+      "light": "#DC143C",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "mu",
+    "continent": "Africa",
+    "name": "Mauritius",
+    "outline": {
+      "light": "#B22222",
+      "dark": "#000080"
+    }
+  },
+  {
+    "code": "mv",
+    "continent": "Asia",
+    "name": "Maldives",
+    "outline": {
+      "light": "#B22222",
+      "dark": "#006400"
+    }
+  },
+  {
+    "code": "mw",
+    "continent": "Africa",
+    "name": "Malawi",
+    "outline": {
+      "light": "#000000",
+      "dark": "#B22222"
+    }
+  },
+  {
+    "code": "mx",
+    "continent": "North America",
+    "name": "Mexico",
+    "outline": {
+      "light": "#006400",
+      "dark": "#B22222"
+    }
+  },
+  {
+    "code": "my",
+    "continent": "Asia",
+    "name": "Malaysia",
+    "outline": {
+      "light": "#000080",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "mz",
+    "continent": "Africa",
+    "name": "Mozambique",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFD700"
     }
   },
   {
@@ -1411,57 +1358,12 @@
     }
   },
   {
-    "code": "nr",
-    "continent": "Oceania",
-    "name": "Nauru",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "np",
-    "continent": "Asia",
-    "name": "Nepal",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "nl",
-    "continent": "Europe",
-    "name": "Netherlands",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
-    }
-  },
-  {
     "code": "nc",
     "continent": "Oceania",
     "name": "New Caledonia",
     "outline": {
       "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "nz",
-    "continent": "Oceania",
-    "name": "New Zealand",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "ni",
-    "continent": "North America",
-    "name": "Nicaragua",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
+      "dark": "#ADD8E6"
     }
   },
   {
@@ -1469,8 +1371,17 @@
     "continent": "Africa",
     "name": "Niger",
     "outline": {
-      "light": "#228B22",
-      "dark": "#FF6347"
+      "light": "#FF4500",
+      "dark": "#006400"
+    }
+  },
+  {
+    "code": "nf",
+    "continent": "Oceania",
+    "name": "Norfolk Island",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFD700"
     }
   },
   {
@@ -1478,8 +1389,53 @@
     "continent": "Africa",
     "name": "Nigeria",
     "outline": {
-      "light": "#228B22",
-      "dark": "#E0E0E0"
+      "light": "#006400",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "ni",
+    "continent": "North America",
+    "name": "Nicaragua",
+    "outline": {
+      "light": "#00BFFF",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "nl",
+    "continent": "Europe",
+    "name": "Netherlands",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "no",
+    "continent": "Europe",
+    "name": "Norway",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "np",
+    "continent": "Asia",
+    "name": "Nepal",
+    "outline": {
+      "light": "#DC143C",
+      "dark": "#000080"
+    }
+  },
+  {
+    "code": "nr",
+    "continent": "Oceania",
+    "name": "Nauru",
+    "outline": {
+      "light": "#FFD700",
+      "dark": "#000080"
     }
   },
   {
@@ -1488,31 +1444,13 @@
     "name": "Niue",
     "outline": {
       "light": "#000080",
-      "dark": "#FFD700"
+      "dark": "#ADD8E6"
     }
   },
   {
-    "code": "nf",
+    "code": "nz",
     "continent": "Oceania",
-    "name": "Norfolk Island",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "mp",
-    "continent": "Oceania",
-    "name": "Northern Mariana Islands",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "no",
-    "continent": "Europe",
-    "name": "Norway",
+    "name": "New Zealand",
     "outline": {
       "light": "#000080",
       "dark": "#B22222"
@@ -1524,34 +1462,7 @@
     "name": "Oman",
     "outline": {
       "light": "#B22222",
-      "dark": "#228B22"
-    }
-  },
-  {
-    "code": "pk",
-    "continent": "Asia",
-    "name": "Pakistan",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "pw",
-    "continent": "Oceania",
-    "name": "Palau",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "ps",
-    "continent": "Asia",
-    "name": "Palestine, State of",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#228B22"
+      "dark": "#006400"
     }
   },
   {
@@ -1560,7 +1471,25 @@
     "name": "Panama",
     "outline": {
       "light": "#000080",
-      "dark": "#B22222"
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "pe",
+    "continent": "South America",
+    "name": "Peru",
+    "outline": {
+      "light": "#DC143C",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "pf",
+    "continent": "Oceania",
+    "name": "French Polynesia",
+    "outline": {
+      "light": "#B22222",
+      "dark": "#ADD8E6"
     }
   },
   {
@@ -1569,25 +1498,7 @@
     "name": "Papua New Guinea",
     "outline": {
       "light": "#B22222",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "py",
-    "continent": "South America",
-    "name": "Paraguay",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "pe",
-    "continent": "South America",
-    "name": "Peru",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "dark": "#000000"
     }
   },
   {
@@ -1596,16 +1507,16 @@
     "name": "Philippines",
     "outline": {
       "light": "#000080",
-      "dark": "#FFD700"
+      "dark": "#DC143C"
     }
   },
   {
-    "code": "pn",
-    "continent": "Oceania",
-    "name": "Pitcairn",
+    "code": "pk",
+    "continent": "Asia",
+    "name": "Pakistan",
     "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
+      "light": "#006400",
+      "dark": "#FFFFFF"
     }
   },
   {
@@ -1613,125 +1524,8 @@
     "continent": "Europe",
     "name": "Poland",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "pt",
-    "continent": "Europe",
-    "name": "Portugal",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "pr",
-    "continent": "North America",
-    "name": "Puerto Rico",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "qa",
-    "continent": "Asia",
-    "name": "Qatar",
-    "outline": {
-      "light": "#8B0000",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "mk",
-    "continent": "Europe",
-    "name": "Republic of North Macedonia",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "ro",
-    "continent": "Europe",
-    "name": "Romania",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "ru",
-    "continent": "Europe",
-    "name": "Russian Federation",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "rw",
-    "continent": "Africa",
-    "name": "Rwanda",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "re",
-    "continent": "Africa",
-    "name": "Réunion",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "bl",
-    "continent": "North America",
-    "name": "Saint Barthélemy",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "sh-hl",
-    "continent": "Africa",
-    "name": "Saint Helena, Ascension and Tristan da Cunha",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "kn",
-    "continent": "North America",
-    "name": "Saint Kitts and Nevis",
-    "outline": {
-      "light": "#FFD700",
-      "dark": "#228B22"
-    }
-  },
-  {
-    "code": "lc",
-    "continent": "North America",
-    "name": "Saint Lucia",
-    "outline": {
-      "light": "#FFD700",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "mf",
-    "continent": "North America",
-    "name": "Saint Martin",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
+      "light": "#DC143C",
+      "dark": "#FFFFFF"
     }
   },
   {
@@ -1740,60 +1534,87 @@
     "name": "Saint Pierre and Miquelon",
     "outline": {
       "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "pn",
+    "continent": "Oceania",
+    "name": "Pitcairn",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "pr",
+    "continent": "North America",
+    "name": "Puerto Rico",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "ps",
+    "continent": "Asia",
+    "name": "Palestine, State of",
+    "outline": {
+      "light": "#000000",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "pt",
+    "continent": "Europe",
+    "name": "Portugal",
+    "outline": {
+      "light": "#006400",
       "dark": "#B22222"
     }
   },
   {
-    "code": "vc",
-    "continent": "North America",
-    "name": "Saint Vincent and the Grenadines",
+    "code": "pw",
+    "continent": "Oceania",
+    "name": "Palau",
     "outline": {
-      "light": "#00BFFF",
-      "dark": "#228B22"
+      "light": "#FFD700",
+      "dark": "#00BFFF"
     }
   },
   {
-    "code": "ws",
-    "continent": "Oceania",
-    "name": "Samoa",
+    "code": "py",
+    "continent": "South America",
+    "name": "Paraguay",
     "outline": {
-      "light": "#B22222",
+      "light": "#DC143C",
       "dark": "#000080"
     }
   },
   {
-    "code": "sm",
-    "continent": "Europe",
-    "name": "San Marino",
-    "outline": {
-      "light": "#00BFFF",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "st",
-    "continent": "Africa",
-    "name": "Sao Tome and Principe",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "sa",
+    "code": "qa",
     "continent": "Asia",
-    "name": "Saudi Arabia",
+    "name": "Qatar",
     "outline": {
-      "light": "#228B22",
-      "dark": "#E0E0E0"
+      "light": "#8B0000",
+      "dark": "#FFFFFF"
     }
   },
   {
-    "code": "sn",
+    "code": "re",
     "continent": "Africa",
-    "name": "Senegal",
+    "name": "Reunion",
     "outline": {
-      "light": "#228B22",
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "ro",
+    "continent": "Europe",
+    "name": "Romania",
+    "outline": {
+      "light": "#000080",
       "dark": "#FFD700"
     }
   },
@@ -1803,61 +1624,34 @@
     "name": "Serbia",
     "outline": {
       "light": "#B22222",
-      "dark": "#E0E0E0"
+      "dark": "#000080"
     }
   },
   {
-    "code": "sc",
-    "continent": "Africa",
-    "name": "Seychelles",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "sl",
-    "continent": "Africa",
-    "name": "Sierra Leone",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#00BFFF"
-    }
-  },
-  {
-    "code": "sg",
+    "code": "ru",
     "continent": "Asia",
-    "name": "Singapore",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "sx",
-    "continent": "North America",
-    "name": "Sint Maarten",
+    "name": "Russian Federation",
     "outline": {
       "light": "#B22222",
       "dark": "#000080"
     }
   },
   {
-    "code": "sk",
-    "continent": "Europe",
-    "name": "Slovakia",
+    "code": "rw",
+    "continent": "Africa",
+    "name": "Rwanda",
     "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
+      "light": "#006400",
+      "dark": "#FFD700"
     }
   },
   {
-    "code": "si",
-    "continent": "Europe",
-    "name": "Slovenia",
+    "code": "sa",
+    "continent": "Asia",
+    "name": "Saudi Arabia",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "light": "#006400",
+      "dark": "#FFFFFF"
     }
   },
   {
@@ -1870,57 +1664,12 @@
     }
   },
   {
-    "code": "so",
+    "code": "sc",
     "continent": "Africa",
-    "name": "Somalia",
-    "outline": {
-      "light": "#00BFFF",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "za",
-    "continent": "Africa",
-    "name": "South Africa",
-    "outline": {
-      "light": "#000080",
-      "dark": "#228B22"
-    }
-  },
-  {
-    "code": "gs",
-    "continent": "Antarctica",
-    "name": "South Georgia and the South Sandwich Islands",
+    "name": "Seychelles",
     "outline": {
       "light": "#000080",
       "dark": "#B22222"
-    }
-  },
-  {
-    "code": "ss",
-    "continent": "Africa",
-    "name": "South Sudan",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "es",
-    "continent": "Europe",
-    "name": "Spain",
-    "outline": {
-      "light": "#FFD700",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "lk",
-    "continent": "Asia",
-    "name": "Sri Lanka",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#FFD700"
     }
   },
   {
@@ -1928,26 +1677,8 @@
     "continent": "Africa",
     "name": "Sudan",
     "outline": {
-      "light": "#B22222",
-      "dark": "#228B22"
-    }
-  },
-  {
-    "code": "sr",
-    "continent": "South America",
-    "name": "Suriname",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#228B22"
-    }
-  },
-  {
-    "code": "sj",
-    "continent": "Europe",
-    "name": "Svalbard and Jan Mayen",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
+      "light": "#000000",
+      "dark": "#DC143C"
     }
   },
   {
@@ -1960,12 +1691,129 @@
     }
   },
   {
-    "code": "ch",
-    "continent": "Europe",
-    "name": "Switzerland",
+    "code": "sg",
+    "continent": "Asia",
+    "name": "Singapore",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "light": "#DC143C",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "sh",
+    "continent": "Africa",
+    "name": "Saint Helena, Ascension and Tristan Da Cunha",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "si",
+    "continent": "Europe",
+    "name": "Slovenia",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "sj",
+    "continent": "Europe",
+    "name": "Svalbard and Jan Mayen",
+    "outline": {
+      "light": "#666666",
+      "dark": "#CCCCCC"
+    }
+  },
+  {
+    "code": "sk",
+    "continent": "Europe",
+    "name": "Slovakia",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "sl",
+    "continent": "Africa",
+    "name": "Sierra Leone",
+    "outline": {
+      "light": "#006400",
+      "dark": "#000080"
+    }
+  },
+  {
+    "code": "sm",
+    "continent": "Europe",
+    "name": "San Marino",
+    "outline": {
+      "light": "#00BFFF",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "sn",
+    "continent": "Africa",
+    "name": "Senegal",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "so",
+    "continent": "Africa",
+    "name": "Somalia",
+    "outline": {
+      "light": "#00BFFF",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "sr",
+    "continent": "South America",
+    "name": "Suriname",
+    "outline": {
+      "light": "#006400",
+      "dark": "#B22222"
+    }
+  },
+  {
+    "code": "ss",
+    "continent": "Africa",
+    "name": "South Sudan",
+    "outline": {
+      "light": "#000000",
+      "dark": "#006400"
+    }
+  },
+  {
+    "code": "st",
+    "continent": "Africa",
+    "name": "Sao Tome and Principe",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFD700"
+    }
+  },
+  {
+    "code": "sv",
+    "continent": "North America",
+    "name": "El Salvador",
+    "outline": {
+      "light": "#00BFFF",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "sx",
+    "continent": "North America",
+    "name": "Sint Maarten (Dutch Part)",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
     }
   },
   {
@@ -1973,35 +1821,53 @@
     "continent": "Asia",
     "name": "Syrian Arab Republic",
     "outline": {
-      "light": "#B22222",
-      "dark": "#228B22"
+      "light": "#000000",
+      "dark": "#DC143C"
     }
   },
   {
-    "code": "tw",
-    "continent": "Asia",
-    "name": "Taiwan, Province of China",
+    "code": "sz",
+    "continent": "Africa",
+    "name": "Swaziland",
     "outline": {
       "light": "#000080",
-      "dark": "#B22222"
+      "dark": "#FF4500"
     }
   },
   {
-    "code": "tj",
-    "continent": "Asia",
-    "name": "Tajikistan",
+    "code": "tc",
+    "continent": "North America",
+    "name": "Turks and Caicos Islands",
     "outline": {
-      "light": "#228B22",
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "td",
+    "continent": "Africa",
+    "name": "Chad",
+    "outline": {
+      "light": "#000080",
       "dark": "#FFD700"
     }
   },
   {
-    "code": "tz",
-    "continent": "Africa",
-    "name": "Tanzania, United Republic of",
+    "code": "tf",
+    "continent": "Antarctica",
+    "name": "French Southern Territories",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#228B22"
+      "light": "#666666",
+      "dark": "#CCCCCC"
+    }
+  },
+  {
+    "code": "tg",
+    "continent": "Africa",
+    "name": "Togo",
+    "outline": {
+      "light": "#006400",
+      "dark": "#FFD700"
     }
   },
   {
@@ -2014,21 +1880,12 @@
     }
   },
   {
-    "code": "tl",
+    "code": "tj",
     "continent": "Asia",
-    "name": "Timor-Leste",
+    "name": "Tajikistan",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "tg",
-    "continent": "Africa",
-    "name": "Togo",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#FFD700"
+      "light": "#DC143C",
+      "dark": "#006400"
     }
   },
   {
@@ -2037,24 +1894,24 @@
     "name": "Tokelau",
     "outline": {
       "light": "#000080",
-      "dark": "#E0E0E0"
+      "dark": "#ADD8E6"
     }
   },
   {
-    "code": "to",
-    "continent": "Oceania",
-    "name": "Tonga",
+    "code": "tl",
+    "continent": "Asia",
+    "name": "Timor-Leste",
     "outline": {
       "light": "#B22222",
-      "dark": "#E0E0E0"
+      "dark": "#000000"
     }
   },
   {
-    "code": "tt",
-    "continent": "North America",
-    "name": "Trinidad and Tobago",
+    "code": "tm",
+    "continent": "Asia",
+    "name": "Turkmenistan",
     "outline": {
-      "light": "#333333",
+      "light": "#006400",
       "dark": "#B22222"
     }
   },
@@ -2063,8 +1920,17 @@
     "continent": "Africa",
     "name": "Tunisia",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "light": "#DC143C",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "to",
+    "continent": "Oceania",
+    "name": "Tonga",
+    "outline": {
+      "light": "#DC143C",
+      "dark": "#FFFFFF"
     }
   },
   {
@@ -2072,26 +1938,17 @@
     "continent": "Asia",
     "name": "Turkey",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "light": "#DC143C",
+      "dark": "#FFFFFF"
     }
   },
   {
-    "code": "tm",
-    "continent": "Asia",
-    "name": "Turkmenistan",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#228B22"
-    }
-  },
-  {
-    "code": "tc",
+    "code": "tt",
     "continent": "North America",
-    "name": "Turks and Caicos Islands",
+    "name": "Trinidad and Tobago",
     "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
+      "light": "#DC143C",
+      "dark": "#000000"
     }
   },
   {
@@ -2099,17 +1956,26 @@
     "continent": "Oceania",
     "name": "Tuvalu",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#00BFFF"
+      "light": "#000080",
+      "dark": "#ADD8E6"
     }
   },
   {
-    "code": "ug",
-    "continent": "Africa",
-    "name": "Uganda",
+    "code": "tw",
+    "continent": "Asia",
+    "name": "Taiwan, Province of China",
     "outline": {
-      "light": "#B22222",
-      "dark": "#FFD700"
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "tz",
+    "continent": "Africa",
+    "name": "Tanzania, United Republic of",
+    "outline": {
+      "light": "#006400",
+      "dark": "#000080"
     }
   },
   {
@@ -2117,17 +1983,17 @@
     "continent": "Europe",
     "name": "Ukraine",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#000080"
+      "light": "#000080",
+      "dark": "#FFD700"
     }
   },
   {
-    "code": "gb",
-    "continent": "Europe",
-    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "code": "ug",
+    "continent": "Africa",
+    "name": "Uganda",
     "outline": {
-      "light": "#0A1C41",
-      "dark": "#E0E0E0"
+      "light": "#000000",
+      "dark": "#FFD700"
     }
   },
   {
@@ -2135,17 +2001,476 @@
     "continent": "Oceania",
     "name": "United States Minor Outlying Islands",
     "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
+      "light": "#666666",
+      "dark": "#CCCCCC"
     }
   },
   {
     "code": "us",
     "continent": "North America",
-    "name": "United States of America",
+    "name": "United States",
     "outline": {
       "light": "#000080",
-      "dark": "#E0E0E0"
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ak",
+    "continent": "North America",
+    "name": "Alaska",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_al",
+    "continent": "North America",
+    "name": "Alabama",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ar",
+    "continent": "North America",
+    "name": "Arkansas",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_az",
+    "continent": "North America",
+    "name": "Arizona",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ca",
+    "continent": "North America",
+    "name": "California",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_co",
+    "continent": "North America",
+    "name": "Colorado",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ct",
+    "continent": "North America",
+    "name": "Connecticut",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_dc",
+    "continent": "North America",
+    "name": "District of Columbia",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_de",
+    "continent": "North America",
+    "name": "Delaware",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_fl",
+    "continent": "North America",
+    "name": "Florida",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ga",
+    "continent": "North America",
+    "name": "Georgia",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_hi",
+    "continent": "North America",
+    "name": "Hawaii",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ia",
+    "continent": "North America",
+    "name": "Iowa",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_id",
+    "continent": "North America",
+    "name": "Idaho",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_il",
+    "continent": "North America",
+    "name": "Illinois",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_in",
+    "continent": "North America",
+    "name": "Indiana",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ks",
+    "continent": "North America",
+    "name": "Kansas",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ky",
+    "continent": "North America",
+    "name": "Kentucky",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_la",
+    "continent": "North America",
+    "name": "Louisiana",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ma",
+    "continent": "North America",
+    "name": "Massachusetts",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_md",
+    "continent": "North America",
+    "name": "Maryland",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_me",
+    "continent": "North America",
+    "name": "Maine",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_mi",
+    "continent": "North America",
+    "name": "Michigan",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_mn",
+    "continent": "North America",
+    "name": "Minnesota",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_mo",
+    "continent": "North America",
+    "name": "Missouri",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ms",
+    "continent": "North America",
+    "name": "Mississippi",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_mt",
+    "continent": "North America",
+    "name": "Montana",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_nc",
+    "continent": "North America",
+    "name": "North Carolina",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_nd",
+    "continent": "North America",
+    "name": "North Dakota",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ne",
+    "continent": "North America",
+    "name": "Nebraska",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_nh",
+    "continent": "North America",
+    "name": "New Hampshire",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_nj",
+    "continent": "North America",
+    "name": "New Jersey",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_nm",
+    "continent": "North America",
+    "name": "New Mexico",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_nv",
+    "continent": "North America",
+    "name": "Nevada",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ny",
+    "continent": "North America",
+    "name": "New York",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_oh",
+    "continent": "North America",
+    "name": "Ohio",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ok",
+    "continent": "North America",
+    "name": "Oklahoma",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_or",
+    "continent": "North America",
+    "name": "Oregon",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_pa",
+    "continent": "North America",
+    "name": "Pennsylvania",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ri",
+    "continent": "North America",
+    "name": "Rhode Island",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_sc",
+    "continent": "North America",
+    "name": "South Carolina",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_sd",
+    "continent": "North America",
+    "name": "South Dakota",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_tn",
+    "continent": "North America",
+    "name": "Tennessee",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_tx",
+    "continent": "North America",
+    "name": "Texas",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_ut",
+    "continent": "North America",
+    "name": "Utah",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_va",
+    "continent": "North America",
+    "name": "Virginia",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_vt",
+    "continent": "North America",
+    "name": "Vermont",
+    "outline": {
+      "light": "#B22222",
+      "dark": "#FFFFFF"
+    }
+  },
+  {
+    "code": "us_wa",
+    "continent": "North America",
+    "name": "Washington",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_wi",
+    "continent": "North America",
+    "name": "Wisconsin",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_wv",
+    "continent": "North America",
+    "name": "West Virginia",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "us_wy",
+    "continent": "North America",
+    "name": "Wyoming",
+    "outline": {
+      "light": "#000080",
+      "dark": "#DC143C"
     }
   },
   {
@@ -2153,8 +2478,8 @@
     "continent": "South America",
     "name": "Uruguay",
     "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
+      "light": "#00BFFF",
+      "dark": "#FFFFFF"
     }
   },
   {
@@ -2167,21 +2492,39 @@
     }
   },
   {
-    "code": "vu",
-    "continent": "Oceania",
-    "name": "Vanuatu",
+    "code": "vc",
+    "continent": "North America",
+    "name": "Saint Vincent and the Grenadines",
     "outline": {
-      "light": "#B22222",
-      "dark": "#228B22"
+      "light": "#006400",
+      "dark": "#00BFFF"
     }
   },
   {
     "code": "ve",
     "continent": "South America",
-    "name": "Venezuela",
+    "name": "Venezuela, Bolivarian Republic of",
+    "outline": {
+      "light": "#FFD700",
+      "dark": "#B22222"
+    }
+  },
+  {
+    "code": "vg",
+    "continent": "North America",
+    "name": "Virgin Islands, British",
     "outline": {
       "light": "#000080",
-      "dark": "#B22222"
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "vi",
+    "continent": "North America",
+    "name": "Virgin Islands, U.S.",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
     }
   },
   {
@@ -2194,21 +2537,12 @@
     }
   },
   {
-    "code": "vg",
-    "continent": "North America",
-    "name": "Virgin Islands",
+    "code": "vu",
+    "continent": "Oceania",
+    "name": "Vanuatu",
     "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "vi",
-    "continent": "North America",
-    "name": "Virgin Islands",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
+      "light": "#B22222",
+      "dark": "#006400"
     }
   },
   {
@@ -2217,16 +2551,16 @@
     "name": "Wallis and Futuna",
     "outline": {
       "light": "#B22222",
-      "dark": "#000080"
+      "dark": "#FFFFFF"
     }
   },
   {
-    "code": "eh",
-    "continent": "Africa",
-    "name": "Western Sahara",
+    "code": "ws",
+    "continent": "Oceania",
+    "name": "Samoa",
     "outline": {
       "light": "#B22222",
-      "dark": "#228B22"
+      "dark": "#000080"
     }
   },
   {
@@ -2235,7 +2569,25 @@
     "name": "Yemen",
     "outline": {
       "light": "#B22222",
-      "dark": "#E0E0E0"
+      "dark": "#000000"
+    }
+  },
+  {
+    "code": "yt",
+    "continent": "Africa",
+    "name": "Mayotte",
+    "outline": {
+      "light": "#000080",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "za",
+    "continent": "Africa",
+    "name": "South Africa",
+    "outline": {
+      "light": "#006400",
+      "dark": "#000080"
     }
   },
   {
@@ -2243,7 +2595,7 @@
     "continent": "Africa",
     "name": "Zambia",
     "outline": {
-      "light": "#228B22",
+      "light": "#006400",
       "dark": "#B22222"
     }
   },
@@ -2252,548 +2604,134 @@
     "continent": "Africa",
     "name": "Zimbabwe",
     "outline": {
-      "light": "#228B22",
+      "light": "#006400",
       "dark": "#B22222"
     }
   },
   {
-    "code": "us_al",
-    "continent": "North America",
-    "name": "Alabama",
+    "code": "ab",
+    "continent": "Asia",
+    "name": "Abkhazia",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "light": "#8B008B",
+      "dark": "#F0E68C"
     }
   },
   {
-    "code": "us_ak",
-    "continent": "North America",
-    "name": "Alaska",
+    "code": "nk",
+    "continent": "Europe",
+    "name": "Northern Cyprus",
     "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
+      "light": "#FF8C00",
+      "dark": "#FFFFFF"
     }
   },
   {
-    "code": "us_az",
-    "continent": "North America",
-    "name": "Arizona",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "us_ar",
-    "continent": "North America",
-    "name": "Arkansas",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "us_ca",
-    "continent": "North America",
-    "name": "California",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "us_co",
-    "continent": "North America",
-    "name": "Colorado",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "us_ct",
-    "continent": "North America",
-    "name": "Connecticut",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_de",
-    "continent": "North America",
-    "name": "Delaware",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "us_fl",
-    "continent": "North America",
-    "name": "Florida",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_ga",
-    "continent": "North America",
-    "name": "Georgia",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_hi",
-    "continent": "North America",
-    "name": "Hawaii",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "us_id",
-    "continent": "North America",
-    "name": "Idaho",
+    "code": "so",
+    "continent": "Africa",
+    "name": "Somaliland",
     "outline": {
       "light": "#008000",
-      "dark": "#E0E0E0"
+      "dark": "#FFFF00"
     }
   },
   {
-    "code": "us_il",
-    "continent": "North America",
-    "name": "Illinois",
+    "code": "os",
+    "continent": "Asia",
+    "name": "South Ossetia",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "light": "#4682B4",
+      "dark": "#F0E68C"
     }
   },
   {
-    "code": "us_in",
-    "continent": "North America",
-    "name": "Indiana",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "us_ia",
-    "continent": "North America",
-    "name": "Iowa",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_ks",
-    "continent": "North America",
-    "name": "Kansas",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "us_ky",
-    "continent": "North America",
-    "name": "Kentucky",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_la",
-    "continent": "North America",
-    "name": "Louisiana",
-    "outline": {
-      "light": "#008000",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "us_me",
-    "continent": "North America",
-    "name": "Maine",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_md",
-    "continent": "North America",
-    "name": "Maryland",
-    "outline": {
-      "light": "#FFD700",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "us_ma",
-    "continent": "North America",
-    "name": "Massachusetts",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_mi",
-    "continent": "North America",
-    "name": "Michigan",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_mn",
-    "continent": "North America",
-    "name": "Minnesota",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_ms",
-    "continent": "North America",
-    "name": "Mississippi",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "us_mo",
-    "continent": "North America",
-    "name": "Missouri",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "us_mt",
-    "continent": "North America",
-    "name": "Montana",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_ne",
-    "continent": "North America",
-    "name": "Nebraska",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_nv",
-    "continent": "North America",
-    "name": "Nevada",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_nh",
-    "continent": "North America",
-    "name": "New Hampshire",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_nj",
-    "continent": "North America",
-    "name": "New Jersey",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_nm",
-    "continent": "North America",
-    "name": "New Mexico",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "us_ny",
-    "continent": "North America",
-    "name": "New York",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_nc",
-    "continent": "North America",
-    "name": "North Carolina",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "us_nd",
-    "continent": "North America",
-    "name": "North Dakota",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_oh",
-    "continent": "North America",
-    "name": "Ohio",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_ok",
-    "continent": "North America",
-    "name": "Oklahoma",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_or",
-    "continent": "North America",
-    "name": "Oregon",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "us_pa",
-    "continent": "North America",
-    "name": "Pennsylvania",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "us_ri",
-    "continent": "North America",
-    "name": "Rhode Island",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_sc",
-    "continent": "North America",
-    "name": "South Carolina",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_sd",
-    "continent": "North America",
-    "name": "South Dakota",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "us_tn",
-    "continent": "North America",
-    "name": "Tennessee",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "us_tx",
-    "continent": "North America",
-    "name": "Texas",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "us_ut",
-    "continent": "North America",
-    "name": "Utah",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "us_vt",
-    "continent": "North America",
-    "name": "Vermont",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_va",
-    "continent": "North America",
-    "name": "Virginia",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_wa",
-    "continent": "North America",
-    "name": "Washington",
-    "outline": {
-      "light": "#228B22",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "us_wv",
-    "continent": "North America",
-    "name": "West Virginia",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_wi",
-    "continent": "North America",
-    "name": "Wisconsin",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "us_wy",
-    "continent": "North America",
-    "name": "Wyoming",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#000080"
-    }
-  },
-  {
-    "code": "us_dc",
-    "continent": "North America",
-    "name": "District of Columbia",
-    "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_pr",
-    "continent": "North America",
-    "name": "Puerto Rico",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "us_gu",
-    "continent": "North America",
-    "name": "Guam",
-    "outline": {
-      "light": "#000080",
-      "dark": "#B22222"
-    }
-  },
-  {
-    "code": "us_vi",
-    "continent": "North America",
-    "name": "Virgin Islands",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "us_as",
-    "continent": "North America",
-    "name": "American Samoa",
-    "outline": {
-      "light": "#000080",
-      "dark": "#FFD700"
-    }
-  },
-  {
-    "code": "us_mp",
-    "continent": "North America",
-    "name": "Northern Mariana Islands",
-    "outline": {
-      "light": "#000080",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "de_1",
+    "code": "tr",
     "continent": "Europe",
-    "name": "Weimar Republic",
+    "name": "Transnistria",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#B22222"
+      "light": "#8B0000",
+      "dark": "#008000"
     }
   },
   {
-    "code": "de_2",
+    "code": "kv",
     "continent": "Europe",
-    "name": "Nazi Germany",
+    "name": "Kosovo",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#E0E0E0"
+      "light": "#0000CD",
+      "dark": "#FFD700"
     }
   },
   {
-    "code": "de_3",
-    "continent": "Europe",
-    "name": "West Germany",
+    "code": "nrk",
+    "continent": "Asia",
+    "name": "Nagorno-Karabakh",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#B22222"
+      "light": "#DC143C",
+      "dark": "#ADD8E6"
+    }
+  },
+  {
+    "code": "dpr",
+    "continent": "Europe",
+    "name": "Donetsk People's Republic",
+    "outline": {
+      "light": "#000000",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "lpr",
+    "continent": "Europe",
+    "name": "Luhansk People's Republic",
+    "outline": {
+      "light": "#000000",
+      "dark": "#00BFFF"
+    }
+  },
+  {
+    "code": "su",
+    "continent": "Europe",
+    "name": "Soviet Union",
+    "outline": {
+      "light": "#FFFF00",
+      "dark": "#880000"
+    }
+  },
+  {
+    "code": "dpr",
+    "continent": "Europe",
+    "name": "Donetsk People's Republic",
+    "outline": {
+      "light": "#000000",
+      "dark": "#DC143C"
+    }
+  },
+  {
+    "code": "lpr",
+    "continent": "Europe",
+    "name": "Luhansk People's Republic",
+    "outline": {
+      "light": "#000000",
+      "dark": "#00BFFF"
+    }
+  },
+  {
+    "code": "su",
+    "continent": "Europe",
+    "name": "Soviet Union",
+    "outline": {
+      "light": "#FFFF00",
+      "dark": "#880000"
     }
   },
   {
     "code": "de_4",
     "continent": "Europe",
-    "name": "East Germany",
+    "name": "Prussia",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#B22222"
+      "light": "#FFFFFF",
+      "dark": "#000000"
     }
   },
   {
@@ -2801,269 +2739,242 @@
     "continent": "Europe",
     "name": "Russian Empire",
     "outline": {
-      "light": "#B22222",
-      "dark": "#E0E0E0"
+      "light": "#FFFFFF",
+      "dark": "#000000"
     }
   },
   {
-    "code": "ru_2",
+    "code": "de_5",
     "continent": "Europe",
-    "name": "Soviet Union",
+    "name": "West Germany",
     "outline": {
-      "light": "#B22222",
-      "dark": "#FFD700"
+      "light": "#FFCC00",
+      "dark": "#000000"
     }
   },
   {
-    "code": "lgbt_rainbow",
+    "code": "de_6",
     "continent": "Europe",
-    "name": "Progress Pride Flag",
+    "name": "East Germany",
     "outline": {
-      "light": "#B22222",
-      "dark": "#FFD700"
+      "light": "#FFCC00",
+      "dark": "#000000"
     }
   },
   {
-    "code": "lgbt_trans",
+    "code": "de_1",
     "continent": "Europe",
-    "name": "Transgender Flag",
+    "name": "Holy Roman Empire",
     "outline": {
-      "light": "#FFC0CB",
-      "dark": "#ADD8E6"
+      "light": "#FFFF00",
+      "dark": "#000080"
     }
   },
   {
-    "code": "lgbt_bi",
+    "code": "gb_1",
     "continent": "Europe",
-    "name": "Bisexual Flag",
+    "name": "England",
     "outline": {
-      "light": "#9400D3",
-      "dark": "#B22222"
+      "light": "#FFFFFF",
+      "dark": "#FF0000"
     }
   },
   {
-    "code": "lgbt_lesbian",
+    "code": "gb_2",
     "continent": "Europe",
-    "name": "Lesbian Flag",
+    "name": "Scotland",
     "outline": {
-      "light": "#B22222",
-      "dark": "#FF6347"
+      "light": "#FFFFFF",
+      "dark": "#000080"
     }
   },
   {
-    "code": "lgbt_ace",
+    "code": "gb_3",
     "continent": "Europe",
-    "name": "Asexual Flag",
+    "name": "Wales",
     "outline": {
-      "light": "#9400D3",
-      "dark": "#808080"
+      "light": "#FFFFFF",
+      "dark": "#FF0000"
     }
   },
   {
-    "code": "lgbt_pan",
+    "code": "fr_1",
     "continent": "Europe",
-    "name": "Pansexual Flag",
+    "name": "Brittany",
     "outline": {
-      "light": "#FFC0CB",
-      "dark": "#FFD700"
+      "light": "#FFFFFF",
+      "dark": "#000000"
     }
   },
   {
-    "code": "lgbt_nb",
+    "code": "es_1",
     "continent": "Europe",
-    "name": "Non-binary Flag",
+    "name": "Catalonia",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#9400D3"
+      "light": "#FFFF00",
+      "dark": "#FF0000"
     }
   },
   {
-    "code": "lgbt_aro",
+    "code": "de_3",
     "continent": "Europe",
-    "name": "Aromantic Flag",
+    "name": "Nazi Germany",
     "outline": {
-      "light": "#008000",
-      "dark": "#D3D3D3"
+      "light": "#FFFFFF",
+      "dark": "#000000"
     }
   },
   {
-    "code": "lgbt_poly",
+    "code": "de_1",
     "continent": "Europe",
-    "name": "Polysexual Flag",
+    "name": "German Empire",
     "outline": {
-      "light": "#B22222",
-      "dark": "#ADD8E6"
+      "light": "#FFFFFF",
+      "dark": "#000000"
     }
   },
   {
-    "code": "lgbt_genderfluid",
+    "code": "at_1",
     "continent": "Europe",
-    "name": "Genderfluid Flag",
+    "name": "Austro-Hungarian Empire",
     "outline": {
-      "light": "#9400D3",
-      "dark": "#E0E0E0"
+      "light": "#FFFF00",
+      "dark": "#000000"
     }
   },
   {
-    "code": "lgbt_agender",
-    "continent": "Europe",
-    "name": "Agender Flag",
+    "code": "tr_1",
+    "continent": "Asia",
+    "name": "Ottoman Empire",
     "outline": {
-      "light": "#228B22",
-      "dark": "#808080"
+      "light": "#FFFFFF",
+      "dark": "#FF0000"
     }
   },
   {
-    "code": "lgbt_ace_trans",
-    "continent": "Europe",
-    "name": "Asexual Transgender Flag",
+    "code": "cn_1",
+    "continent": "Asia",
+    "name": "Qing",
     "outline": {
-      "light": "#9400D3",
-      "dark": "#FFC0CB"
+      "light": "#FFFF00",
+      "dark": "#FF0000"
     }
   },
   {
-    "code": "lgbt_intersex",
-    "continent": "Europe",
-    "name": "Intersex Flag",
+    "code": "mn_1",
+    "continent": "Asia",
+    "name": "Mongol Empire",
     "outline": {
-      "light": "#FFD700",
-      "dark": "#9400D3"
-    }
-  },
-  {
-    "code": "lgbt_demi",
-    "continent": "Europe",
-    "name": "Demisexual Flag",
-    "outline": {
-      "light": "#9400D3",
-      "dark": "#808080"
-    }
-  },
-  {
-    "code": "lgbt_demiboy",
-    "continent": "Europe",
-    "name": "Demiboy Flag",
-    "outline": {
-      "light": "#ADD8E6",
-      "dark": "#808080"
-    }
-  },
-  {
-    "code": "lgbt_demigirl",
-    "continent": "Europe",
-    "name": "Demigirl Flag",
-    "outline": {
-      "light": "#FFC0CB",
-      "dark": "#808080"
-    }
-  },
-  {
-    "code": "lgbt_genderqueer",
-    "continent": "Europe",
-    "name": "Genderqueer Flag",
-    "outline": {
-      "light": "#9400D3",
-      "dark": "#228B22"
-    }
-  },
-  {
-    "code": "gadsden",
-    "continent": "North America",
-    "name": "Gadsden Flag",
-    "outline": {
-      "light": "#000000",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "ancom",
-    "continent": "Europe",
-    "name": "Ancom Flag",
-    "outline": {
-      "light": "#000000",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "ancap",
-    "continent": "North America",
-    "name": "Ancap Flag",
-    "outline": {
-      "light": "#000000",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "nazbol",
-    "continent": "Europe",
-    "name": "Nazbol Flag",
-    "outline": {
-      "light": "#000000",
-      "dark": "#E0E0E0"
+      "light": "#FFFF00",
+      "dark": "#FF0000"
     }
   },
   {
     "code": "pirate",
-    "continent": "Europe",
-    "name": "Pirate Flag",
-    "outline": {
-      "light": "#E0E0E0",
-      "dark": "#000000"
-    }
-  },
-  {
-    "code": "black_flag",
-    "continent": "Europe",
-    "name": "Black Flag",
-    "outline": {
-      "light": "#E0E0E0",
-      "dark": "#000000"
-    }
-  },
-  {
-    "code": "white_flag",
     "continent": "Global",
-    "name": "White Flag",
+    "name": "Pirate flag",
+    "outline": {
+      "light": "#FFFFFF",
+      "dark": "#000000"
+    }
+  },
+  {
+    "code": "ancom",
+    "continent": "Global",
+    "name": "Ancom flag",
+    "outline": {
+      "light": "#FF0000",
+      "dark": "#000000"
+    }
+  },
+  {
+    "code": "gadsden",
+    "continent": "Global",
+    "name": "Gadsden flag",
+    "outline": {
+      "light": "#FFFF00",
+      "dark": "#000000"
+    }
+  },
+  {
+    "code": "nazbol",
+    "continent": "Global",
+    "name": "Nazbol flag",
+    "outline": {
+      "light": "#FF0000",
+      "dark": "#000000"
+    }
+  },
+  {
+    "code": "ancap",
+    "continent": "Global",
+    "name": "Ancap flag",
+    "outline": {
+      "light": "#FFFF00",
+      "dark": "#000000"
+    }
+  },
+  {
+    "code": "kek",
+    "continent": "Global",
+    "name": "Kekistan flag",
+    "outline": {
+      "light": "#00FF00",
+      "dark": "#000000"
+    }
+  },
+  {
+    "code": "black",
+    "continent": "Global",
+    "name": "Black flag",
+    "outline": {
+      "light": "#FFFFFF",
+      "dark": "#000000"
+    }
+  },
+  {
+    "code": "white",
+    "continent": "Global",
+    "name": "White flag",
     "outline": {
       "light": "#000000",
-      "dark": "#CCCCCC"
+      "dark": "#FFFFFF"
     }
   },
   {
-    "code": "red_flag",
-    "continent": "Political",
-    "name": "Red Flag",
-    "outline": {
-      "light": "#E0E0E0",
-      "dark": "#000000"
-    }
-  },
-  {
-    "code": "blue_flag",
+    "code": "green",
     "continent": "Global",
-    "name": "Blue Flag",
+    "name": "Green flag",
     "outline": {
-      "light": "#E0E0E0",
-      "dark": "#000000"
+      "light": "#FFFFFF",
+      "dark": "#008000"
     }
   },
   {
-    "code": "yellow_flag",
+    "code": "blue",
     "continent": "Global",
-    "name": "Yellow Flag",
+    "name": "Blue flag",
+    "outline": {
+      "light": "#FFFFFF",
+      "dark": "#0000FF"
+    }
+  },
+  {
+    "code": "red",
+    "continent": "Global",
+    "name": "Red flag",
+    "outline": {
+      "light": "#FFFFFF",
+      "dark": "#FF0000"
+    }
+  },
+  {
+    "code": "yellow",
+    "continent": "Global",
+    "name": "Yellow flag",
     "outline": {
       "light": "#000000",
-      "dark": "#E0E0E0"
-    }
-  },
-  {
-    "code": "green_flag",
-    "continent": "Global",
-    "name": "Green Flag",
-    "outline": {
-      "light": "#E0E0E0",
-      "dark": "#000000"
+      "dark": "#FFFF00"
     }
   }
 ]
