@@ -145,7 +145,7 @@
   {
     "code": "bo",
     "continent": "South America",
-    "name": "Bolivia (Plurinational State of)"
+    "name": "Bolivia"
   },
   {
     "code": "bq",
@@ -250,7 +250,7 @@
   {
     "code": "cc",
     "continent": "Asia",
-    "name": "Cocos (Keeling) Islands"
+    "name": "Cocos Islands"
   },
   {
     "code": "co",
@@ -375,7 +375,7 @@
   {
     "code": "fk",
     "continent": "South America",
-    "name": "Falkland Islands (Malvinas)"
+    "name": "Falkland Islands"
   },
   {
     "code": "fo",
@@ -540,7 +540,7 @@
   {
     "code": "ir",
     "continent": "Asia",
-    "name": "Iran (Islamic Republic of)"
+    "name": "Iran"
   },
   {
     "code": "iq",
@@ -605,7 +605,7 @@
   {
     "code": "kp",
     "continent": "Asia",
-    "name": "Korea (Democratic People's Republic of)"
+    "name": "North Korea"
   },
   {
     "code": "kr",
@@ -735,7 +735,7 @@
   {
     "code": "fm",
     "continent": "Oceania",
-    "name": "Micronesia (Federated States of)"
+    "name": "Micronesia"
   },
   {
     "code": "md",
@@ -960,7 +960,7 @@
   {
     "code": "mf",
     "continent": "North America",
-    "name": "Saint Martin (French part)"
+    "name": "Saint Martin"
   },
   {
     "code": "pm",
@@ -1020,7 +1020,7 @@
   {
     "code": "sx",
     "continent": "North America",
-    "name": "Sint Maarten (Dutch part)"
+    "name": "Sint Maarten"
   },
   {
     "code": "sk",
@@ -1210,7 +1210,7 @@
   {
     "code": "ve",
     "continent": "South America",
-    "name": "Venezuela (Bolivarian Republic of)"
+    "name": "Venezuela"
   },
   {
     "code": "vn",
@@ -1220,12 +1220,12 @@
   {
     "code": "vg",
     "continent": "North America",
-    "name": "Virgin Islands (British)"
+    "name": "Virgin Islands"
   },
   {
     "code": "vi",
     "continent": "North America",
-    "name": "Virgin Islands (U.S.)"
+    "name": "Virgin Islands"
   },
   {
     "code": "wf",
@@ -1567,5 +1567,70 @@
     "code": "ru_2",
     "continent": "Europe",
     "name": "Soviet Union"
+  },
+  {
+    "code": "lgbt_rainbow",
+    "continent": "Europe",
+    "name": "Progress Pride Flag"
+  },
+  {
+    "code": "lgbt_trans",
+    "continent": "Europe",
+    "name": "Transgender Flag"
+  },
+  {
+    "code": "lgbt_bi",
+    "continent": "Europe",
+    "name": "Bisexual Flag"
+  },
+  {
+    "code": "lgbt_lesbian",
+    "continent": "Europe",
+    "name": "Lesbian Flag"
+  },
+  {
+    "code": "lgbt_ace",
+    "continent": "Europe",
+    "name": "Asexual Flag"
+  },
+  {
+    "code": "lgbt_pan",
+    "continent": "Europe",
+    "name": "Pansexual Flag"
+  },
+  {
+    "code": "lgbt_nb",
+    "continent": "Europe",
+    "name": "Non-binary Flag"
+  },
+  {
+    "code": "lgbt_genderfluid",
+    "continent": "Europe",
+    "name": "Genderfluid Flag"
+  },
+  {
+    "code": "lgbt_intersex",
+    "continent": "Europe",
+    "name": "Intersex Flag"
+  },
+    {
+    "code": "us_1",
+    "continent": "North America",
+    "name": "Confederate Battle Flag"
+  },
+  {
+    "code": "us_2",
+    "continent": "North America",
+    "name": "Ku Klux Klan Flag"
+  },
+  {
+    "code": "sy_1",
+    "continent": "Asia",
+    "name": "ISIL"
+  },
+  {
+    "code": "kek",
+    "continent": "North America",
+    "name": "Kekistan Flag"
   }
 ]
