@@ -1,6 +1,6 @@
 tbd is an online real-time strategy game focused on territorial control and alliance building. Players compete to expand their territory, build structures, and form strategic alliances in various maps based on real-world geography.
 
-This is a fork/rewrite of wdfront.io. Credit to https://github.com/wdfrontio.
+This is a fork/rewrite of openfront.io. Credit to https://github.com/openfrontio.
 
 # wdfront - Licensing
 
