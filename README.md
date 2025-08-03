@@ -1,17 +1,17 @@
 tbd is an online real-time strategy game focused on territorial control and alliance building. Players compete to expand their territory, build structures, and form strategic alliances in various maps based on real-world geography.
 
-This is a fork/rewrite of OpenFront.io. Credit to https://github.com/openfrontio.
+This is a fork/rewrite of wdfront.io. Credit to https://github.com/wdfrontio.
 
-# OpenFront - Licensing
+# wdfront - Licensing
 
-OpenFront Contributor License Agreement (CLA) can be found [here](https://gist.github.com/evanpelle/4c9e0fc2cb73b2b3b3402ca202f56672).
+wdfront Contributor License Agreement (CLA) can be found [here](https://gist.github.com/evanpelle/4c9e0fc2cb73b2b3b3402ca202f56672).
 This is to help us transition to AGPL, a stricter open source license. After creating a pull request you will be prompted to sign.
 
 This project uses a multi-licensing approach:
 
 - Code in the `server/` and `core/` directory is licensed under MIT
 - Client code (in the `client/` directory) is licensed under GPL v3
-- Assets in resources/non-commercial are under CC BY-NC 4.0 with OpenFront LLC Commercial Exemption. By contributing assets to /non-commercial/, contributors agree that OpenFront LLC may use their contributions for commercial purposes while the contributions remain CC BY-NC 4.0 for all other parties.
+- Assets in resources/non-commercial are under CC BY-NC 4.0 with Openfront LLC Commercial Exemption. By contributing assets to /non-commercial/, contributors agree that wdfront LLC may use their contributions for commercial purposes while the contributions remain CC BY-NC 4.0 for all other parties.
 
 See LICENSE file for more details.
 
@@ -190,4 +190,4 @@ To ensure code quality and project stability, we use a progressive contribution 
 
 Remember that maintaining this project requires significant effort. The maintainer appreciates your contributions but must prioritize long-term project health and stability. Not all contributions will be accepted, and that's okay.
 
-Thank you for helping make OpenFront better!
+Thank you for helping make wdfront better!
