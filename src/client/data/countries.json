@@ -2863,16 +2863,16 @@
   {
     "code": "pirate",
     "continent": "Global",
-    "name": "Pirate flag",
+    "name": "Pirate",
     "outline": {
       "light": "#FFFFFF",
-      "dark": "#000000"
+      "dark": "#888888"
     }
   },
   {
     "code": "ancom",
     "continent": "Global",
-    "name": "Ancom flag",
+    "name": "Anarcho-communism",
     "outline": {
       "light": "#FF0000",
       "dark": "#000000"
@@ -2881,7 +2881,7 @@
   {
     "code": "gadsden",
     "continent": "Global",
-    "name": "Gadsden flag",
+    "name": "Gadsden",
     "outline": {
       "light": "#FFFF00",
       "dark": "#000000"
@@ -2890,7 +2890,7 @@
   {
     "code": "nazbol",
     "continent": "Global",
-    "name": "Nazbol flag",
+    "name": "Nazbol",
     "outline": {
       "light": "#FF0000",
       "dark": "#000000"
@@ -2899,7 +2899,7 @@
   {
     "code": "ancap",
     "continent": "Global",
-    "name": "Ancap flag",
+    "name": "Anarcho-capitalism",
     "outline": {
       "light": "#FFFF00",
       "dark": "#000000"
@@ -2908,7 +2908,7 @@
   {
     "code": "kek",
     "continent": "Global",
-    "name": "Kekistan flag",
+    "name": "Kekistan",
     "outline": {
       "light": "#00FF00",
       "dark": "#000000"
@@ -2917,52 +2917,52 @@
   {
     "code": "black",
     "continent": "Global",
-    "name": "Black flag",
+    "name": "Black",
     "outline": {
-      "light": "#FFFFFF",
+      "light": "#888888",
       "dark": "#000000"
     }
   },
   {
     "code": "white",
     "continent": "Global",
-    "name": "White flag",
+    "name": "White",
     "outline": {
       "light": "#000000",
-      "dark": "#FFFFFF"
+      "dark": "#888888"
     }
   },
   {
     "code": "green",
     "continent": "Global",
-    "name": "Green flag",
+    "name": "Green",
     "outline": {
       "light": "#FFFFFF",
-      "dark": "#008000"
+      "dark": "#008800"
     }
   },
   {
     "code": "blue",
     "continent": "Global",
-    "name": "Blue flag",
+    "name": "Blue",
     "outline": {
       "light": "#FFFFFF",
-      "dark": "#0000FF"
+      "dark": "#000088"
     }
   },
   {
     "code": "red",
     "continent": "Global",
-    "name": "Red flag",
+    "name": "Red",
     "outline": {
       "light": "#FFFFFF",
-      "dark": "#FF0000"
+      "dark": "#880000"
     }
   },
   {
     "code": "yellow",
     "continent": "Global",
-    "name": "Yellow flag",
+    "name": "Yellow",
     "outline": {
       "light": "#000000",
       "dark": "#FFFF00"
