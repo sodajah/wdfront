@@ -1,18 +1,6 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="resources/images/OpenFrontLogoDark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="resources/images/OpenFrontLogo.svg">
-    <img src="resources/images/OpenFrontLogo.svg" alt="OpenFrontIO Logo" width="300">
-  </picture>
-</p>
+tbd is an online real-time strategy game focused on territorial control and alliance building. Players compete to expand their territory, build structures, and form strategic alliances in various maps based on real-world geography.
 
-[OpenFront.io](https://openfront.io/) is an online real-time strategy game focused on territorial control and alliance building. Players compete to expand their territory, build structures, and form strategic alliances in various maps based on real-world geography.
-
-This is a fork/rewrite of WarFront.io. Credit to https://github.com/WarFrontIO.
-
-![CI](https://github.com/openfrontio/OpenFrontIO/actions/workflows/ci.yml/badge.svg)
-[![Crowdin](https://badges.crowdin.net/openfront-mls/localized.svg)](https://crowdin.com/project/openfront-mls)
-[![CLA assistant](https://cla-assistant.io/readme/badge/openfrontio/OpenFrontIO)](https://cla-assistant.io/openfrontio/OpenFrontIO)
+This is a fork/rewrite of OpenFront.io. Credit to https://github.com/openfrontio.
 
 # OpenFront - Licensing
 
@@ -45,8 +33,8 @@ See LICENSE file for more details.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/openfrontio/OpenFrontIO.git
-   cd OpenFrontIO
+   git clone https://github.com/sodajah/wdfront.git
+   cd wdfront
    ```
 
 2. **Install dependencies**
@@ -127,7 +115,7 @@ This project is licensed under the terms found in the [LICENSE](LICENSE) file.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-1. Request to join the development [Discord](https://discord.gg/K9zernJB5z).
+1. Request to join the development tbd.
 1. Fork the repository
 1. Create your feature branch (`git checkout -b amazing-feature`)
 1. Commit your changes (`git commit -m 'Add some amazing feature'`)
@@ -139,15 +127,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 Translators are welcome! Please feel free to help translate into your language.
 How to help?
 
-1. Request to join the translation [Discord](https://discord.gg/rUukAnz4Ww)
-1. Go to the project's Crowdin translation page: [https://crowdin.com/project/openfront-mls](https://crowdin.com/project/openfront-mls)
+1. Request to join the translation tbd
+1. Go to the project's Crowdin translation page: tbd
 1. Login if you already have an account/ Sign up if you don't have one
 1. Select the language you want to translate in/ If your language isn't on the list, click the "Request New Language" button and enter the language you want added there.
 1. Translate the strings
 
 ### Project Governance
 
-- The project maintainer ([evan](https://github.com/evanpelle)) has final authority on all code changes and design decisions
+- The project maintainer ([sodajah](https://github.com/sodajah)) has final authority on all code changes and design decisions
 - All pull requests require maintainer approval before merging
 - The maintainer reserves the right to reject contributions that don't align with the project's vision or quality standards
 
