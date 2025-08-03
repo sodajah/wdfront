@@ -1997,15 +1997,6 @@
     }
   },
   {
-    "code": "um",
-    "continent": "Oceania",
-    "name": "United States Minor Outlying Islands",
-    "outline": {
-      "light": "#666666",
-      "dark": "#CCCCCC"
-    }
-  },
-  {
     "code": "us",
     "continent": "North America",
     "name": "United States",
