@@ -82,7 +82,7 @@ describe("SAM", () => {
     const sam = defender.buildUnit(UnitType.SAMLauncher, game.ref(1, 1), {});
     game.addExecution(new SAMLauncherExecution(defender, null, sam));
 
-    // Sam will only target nukes it can destroy before it reaches its target
+    // Sam will only target bombs it can destroy before it reaches its target
     const nuke = attacker.buildUnit(UnitType.AtomBomb, game.ref(1, 1), {
       targetTile: game.ref(3, 1),
       trajectory: [
@@ -193,7 +193,7 @@ describe("SAM", () => {
     expect(sam.isInCooldown()).toBeTruthy();
   });
 
-  test("SAMs should target only nukes aimed at nearby targets if not close to launch site", async () => {
+  test("SAMs should target only bombs aimed at nearby targets if not close to launch site", async () => {
     const targetDistance = 199;
     // Middle SAM: should not intercept the nuke
     const sam1 = middle_defender.buildUnit(

@@ -9,10 +9,10 @@
 - Trade ships are now capped at 150 (Evan)
   → Each port you own now increases the gold per trade, counterbalancing the cap.
 - MIRVs have been nerfed
-  → Expect less devastating multi-warhead nukes. Land in-between the fallout can be more quickly conquered.
+  → Expect less devastating multi-warhead bombs. Land in-between the fallout can be more quickly conquered.
 - Warships prioritize enemy transport ships over warships. Reload instantly after shooting a transport ship. (Evan)
 - Building discounts can only be used one time.
-- AI nukes now avoid SAM launchers
+- AI bombs now avoid SAM launchers
 
 🚅 **Major Features**
 
@@ -31,8 +31,8 @@
 🔧 **Game Improvements**
 
 - Improved territory drawing performance
-- SAMs now only target nukes threatening nearby areas
-- Nukes are now faster (speed increased from 4 → 6)
+- SAMs now only target bombs threatening nearby areas
+- bombs are now faster (speed increased from 4 → 6)
 - Better color mixing for small player counts (Ble4Ch)
 - Unique player colors to avoid confusion (Ble4Ch)
 - Better and optimized bot behaviour and spawn logic (tryout33 & FakeNeo)
@@ -211,8 +211,8 @@
 - Center map on start by @Demonessica in https://github.com/openfrontio/OpenFrontIO/pull/1013
 - Rev: Update "Japan and Neighbors" map to "East Asia" by @andrewNiziolek in https://github.com/openfrontio/OpenFrontIO/pull/1007
 - Close socket on ClientMessageSchema, improve zod error by @scottanderson in https://github.com/openfrontio/OpenFrontIO/pull/1003
-- SAMs should target only nukes aimed at nearby targets by @DevelopingTom in https://github.com/openfrontio/OpenFrontIO/pull/1038
-- AI nukes avoid SAM launchers by @scottanderson in https://github.com/openfrontio/OpenFrontIO/pull/1045
+- SAMs should target only bombs aimed at nearby targets by @DevelopingTom in https://github.com/openfrontio/OpenFrontIO/pull/1038
+- AI bombs avoid SAM launchers by @scottanderson in https://github.com/openfrontio/OpenFrontIO/pull/1045
 - Show alliances on the PlayerPanel by @Maaxion in https://github.com/openfrontio/OpenFrontIO/pull/1053
 - Improve readability of alliance acceptation logic for bots and add tests by @Nephty in https://github.com/openfrontio/OpenFrontIO/pull/1049
 - [Cleanup] Pass Player into execution constructor instead of PlayerID by @LJoyL in https://github.com/openfrontio/OpenFrontIO/pull/1022
@@ -270,7 +270,7 @@
 - Extend token lifetime to 3 days by @scottanderson in https://github.com/openfrontio/OpenFrontIO/pull/1172
 - Redraw stacked buildings sprites by @jrouillard in https://github.com/openfrontio/OpenFrontIO/pull/1170
 - Fix Nations building more than allowed by @VariableVince in https://github.com/openfrontio/OpenFrontIO/pull/1176
-- Set a targetable status for nukes by @jrouillard in https://github.com/openfrontio/OpenFrontIO/pull/1174
+- Set a targetable status for bombs by @jrouillard in https://github.com/openfrontio/OpenFrontIO/pull/1174
 - fixed giantworldmap key by @Aotumuri in https://github.com/openfrontio/OpenFrontIO/pull/1188
 - Fix Leaderboard: convert NaN into 0% by @VariableVince in https://github.com/openfrontio/OpenFrontIO/pull/1190
 - Update pr-description regex by @scottanderson in https://github.com/openfrontio/OpenFrontIO/pull/1181

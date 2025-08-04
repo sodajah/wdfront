@@ -121,7 +121,7 @@ export class NukeExecution implements Execution {
           this.mg.displayIncomingUnit(
             this.nuke.id(),
             // TODO TranslateText
-            `${this.player.name()} - atom bomb inbound`,
+            `${this.player.name()} - Missile inbound`,
             MessageType.NUKE_INBOUND,
             target.id(),
           );
@@ -129,7 +129,7 @@ export class NukeExecution implements Execution {
           this.mg.displayIncomingUnit(
             this.nuke.id(),
             // TODO TranslateText
-            `${this.player.name()} - hydrogen bomb inbound`,
+            `${this.player.name()} - Nuclear Bomb inbound`,
             MessageType.HYDROGEN_BOMB_INBOUND,
             target.id(),
           );

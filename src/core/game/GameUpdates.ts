@@ -122,7 +122,7 @@ export interface UnitUpdate {
   retreating: boolean;
   targetable: boolean;
   targetUnitId?: number; // Only for trade ships
-  targetTile?: TileRef; // Only for nukes
+  targetTile?: TileRef; // Only for bombs
   health?: number;
   constructionType?: UnitType;
   missileTimerQueue: number[];

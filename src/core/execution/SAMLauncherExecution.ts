@@ -16,10 +16,10 @@ type Target = {
 };
 
 /**
- * Smart SAM targeting system preshoting nukes so its range is strictly enforced
+ * Smart SAM targeting system preshoting bombs so its range is strictly enforced
  */
 class SAMTargetingSystem {
-  // Store unreachable nukes so the SAM won't compute an interception point for them every frame
+  // Store unreachable bombs so the SAM won't compute an interception point for them every frame
   private nukesToIgnore: Set<number> = new Set();
 
   constructor(
@@ -72,7 +72,7 @@ class SAMTargetingSystem {
   }
 
   public getSingleTarget(): Target | null {
-    // Look beyond the SAM range so it can preshot nukes
+    // Look beyond the SAM range so it can preshot bombs
     const detectionRange = this.mg.config().defaultSamRange() * 1.5;
     const nukes = this.mg.nearbyUnits(
       this.sam.tile(),
@@ -85,7 +85,7 @@ class SAMTargetingSystem {
       },
     );
 
-    // Clear unreachable nukes that went out of range
+    // Clear unreachable bombs that went out of range
     this.updateUnreachableNukes(nukes);
 
     const targets: Array<Target> = [];
@@ -97,14 +97,14 @@ class SAMTargetingSystem {
       if (interceptionTile !== undefined) {
         targets.push({ unit: nuke.unit, tile: interceptionTile });
       } else {
-        // Store unreachable nukes in order to prevent useless interception computation
+        // Store unreachable bombs in order to prevent useless interception computation
         this.storeUnreachableNukes(nuke.unit.id());
       }
     }
 
     return (
       targets.sort((a: Target, b: Target) => {
-        // Prioritize Hydrogen Bombs
+        // Prioritize Nuclear Bombs
         if (
           a.unit.type() === UnitType.HydrogenBomb &&
           b.unit.type() !== UnitType.HydrogenBomb

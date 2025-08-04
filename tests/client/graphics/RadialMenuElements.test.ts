@@ -371,7 +371,7 @@ describe("RadialMenuElements", () => {
       const subMenu = attackMenuElement.subMenu!(mockParams);
 
       const atomBombElement = subMenu.find(
-        (item) => item.id === "attack_Atom Bomb",
+        (item) => item.id === "attack_Missile",
       );
 
       expect(atomBombElement).toBeDefined();
@@ -423,7 +423,7 @@ describe("RadialMenuElements", () => {
 
       const subMenu = attackMenuElement.subMenu!(mockParams);
       const atomBombElement = subMenu.find(
-        (item) => item.id === "attack_Atom Bomb",
+        (item) => item.id === "attack_Missile",
       );
 
       expect(atomBombElement!.tooltipItems).toBeDefined();
@@ -455,7 +455,7 @@ describe("RadialMenuElements", () => {
 
       const subMenu = attackMenuElement.subMenu!(mockParams);
       const atomBombElement = subMenu.find(
-        (item) => item.id === "attack_Atom Bomb",
+        (item) => item.id === "attack_Missile",
       );
 
       expect(atomBombElement!.color).toBe(COLORS.attack);

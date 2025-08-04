@@ -66,7 +66,7 @@
     "build_silo_desc": "Füze fırlatmaya izin verir.",
     "build_sam": "SAM Fırlatıcı",
     "build_sam_desc": "100 piksel menzili içindeki düşman füzelerini %75 olasılıkla engeller. SAM'ın 7.5 saniye bekleme süresi vardır ve MIRV'leri engelleyemez.",
-    "build_atom": "Atom Bombası",
+    "build_atom": "Missileası",
     "build_atom_desc": "Bölgeyi, binaları, gemileri ve tekneleri yok eden küçük patlayıcı bomba. En yakın Füze Silosundan doğar ve ilk inşa etmek için tıkladığınız alana düşer.",
     "build_hydrogen": "Hidrojen Bombası",
     "build_hydrogen_desc": "Büyük patlayıcı bomba. En yakın Füze Silosundan doğar ve ilk inşa etmek için tıkladığınız alana düşer.",
